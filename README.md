@@ -49,5 +49,5 @@ The **Memory Journal App** is a React Native application designed to help users 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/memory-journal-app.git
+   git clone https://github.com/anant2704/Memora.git
    cd memory-journal-app
