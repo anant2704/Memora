@@ -1,5 +1,4 @@
-# Memora
-# Memory Journal App
+# Memora: Memory Journal App
 
 The **Memory Journal App** is a React Native application designed to help users save, view, and manage their cherished memories. Users can add memories with titles, descriptions, and images, view detailed memory entries, and delete memories they no longer need. The app is built with modern technologies like React Native, Expo, and AsyncStorage for seamless performance and user experience.
 
